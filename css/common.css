@@ -1,0 +1,31 @@
+/* iletou_header */
+.iletou_header{width: 100%;height: 44px;box-sizing: border-box;padding: 0 10px;background: #cf000f;line-height: 44px;;}
+.iletou_header h1{font-size: 1.5rem;color: #fff;}
+.iletou_header .logo{width: 65px;height: 20px;background: url(../images/logo.png) no-repeat;background-size: 65px 19px;margin: 12px 5px 0 0;}
+.iletou_header a{font-size: 1.4rem;color: #fec0c5;}
+/* end iletou_header */
+
+/* footer_nav */
+.footer_nav{width: 100%;height: 50px;background: #303c43;margin-top: 15px;position: fixed;bottom: 0;z-index: 999;}
+.footer_nav ul li{width: 20%;height: 50px;}
+.footer_nav ul li a{color: #fff;}
+.footer_nav ul li span{margin-top:5px;width: 25px;height: 25px;background: url(../images/footer_nav.png) -6px 0 no-repeat;background-size: 197px 50px;}
+.footer_nav ul li p{line-height: 17px;}
+.footer_nav ul li a.active{color: #ffc809;}
+.home{background-position:  -6px 0 !important;}
+.home_active{background-position:  -6px -25px !important;}
+.sports{background-position: -43px 0 !important;}
+.sports_active{background-position: -43px -25px !important;}
+.find{background-position: -84px 0 !important;}
+.find_active{background-position: -84px -25px !important;}
+.jiang{background-position: -124px 0 !important;}
+.jiang_active{background-position: -124px -25px !important;}
+.account{background-position: -162px 0 !important;}
+.account_active{background-position: -162px -25px !important;}
+/* end footer_nav */
+
+/* sports_top */
+.sports_top{width: 100%;overflow: hidden;}
+/* end sports_top */
+
+
